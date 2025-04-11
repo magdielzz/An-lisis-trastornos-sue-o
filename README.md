@@ -3,7 +3,7 @@
 Este repositorio contiene un análisis integral de trastornos del sueño utilizando técnicas de Machine Learning.
 
 ## Contenido
-- **notebooks/**: Notebooks Jupyter con el análisis y visualizaciones.
+- **notebooks/**: Notebooks Jupyter con el análisis y visualizaciones, Notebook base sin modificaciones.
 - **src/**: Código fuente mejorado en Python.
 - **reports/**: Reporte detallado en formato PDF.
 - **images/**: Gráficos e imágenes relevantes.
