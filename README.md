@@ -6,7 +6,7 @@ Este repositorio contiene un análisis integral de trastornos del sueño utiliza
 - **notebooks/**: Notebooks Jupyter con el análisis y visualizaciones, Notebook base sin modificaciones.
 - **src/**: Código fuente mejorado en Python.
 - **reports/**: Reporte detallado en formato PDF.
-- **images/**: Gráficos e imágenes relevantes.
+
 
 ## Requisitos
 - Python 3.8 o superior
