@@ -15,4 +15,4 @@ Este repositorio contiene un análisis integral de trastornos del sueño utiliza
 ## Instrucciones para Replicar
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/<magdielzz>/analisis-trastornos-sueño.git
+   git clone https://github.com/magdielzz/An-lisis-trastornos-sue-o.git
